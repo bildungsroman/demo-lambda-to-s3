@@ -33,7 +33,7 @@ Resources:
         - ResourceName: handleSubmit
       CodeUri: src/handleSubmit
       Handler: index.handler
-      Runtime: nodejs10.x
+      Runtime: nodejs12.x
       MemorySize: 3008
       Timeout: 30
       Tracing: Active
